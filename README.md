@@ -1,2 +1,2 @@
-# bezy-paper-wallet
-BEZY Paper Wallet Generator
+# BEZYCoinPaperWallet
+BEZY Coin Paper Wallet
